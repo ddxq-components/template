@@ -1,2 +1,6 @@
-# template
-Fork from https://github.com/aui/artTemplate
+artTemplate
+==========
+
+Convert from [aui/artTemplate](https://github.com/aui/artTemplate)
+
+----------

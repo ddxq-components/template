@@ -1,0 +1,8 @@
+{
+  "name": "template",
+  "version": "3.0.0",
+  "keywords": ["template"],
+  "description": "性能卓越的 js 模板引擎",
+  "main":"template.js",
+  "scripts":["template.js"]
+}
